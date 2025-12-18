@@ -26,7 +26,7 @@ This is a personal portfolio website built using **React** and **Tailwind CSS**,
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/Pateriya27/Portfolio.git
+git clone https://github.com/Pateriya27/Portfolio-Harshit-Pateriya.git
 cd Portfolio
 
 Install dependencies
